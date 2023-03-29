@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TimaIt.github.io-Phonebook/static/css/main.4f7d81f2.css",
+    "main.js": "/TimaIt.github.io-Phonebook/static/js/main.ab46b462.js",
+    "index.html": "/TimaIt.github.io-Phonebook/index.html",
+    "main.4f7d81f2.css.map": "/TimaIt.github.io-Phonebook/static/css/main.4f7d81f2.css.map",
+    "main.ab46b462.js.map": "/TimaIt.github.io-Phonebook/static/js/main.ab46b462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f7d81f2.css",
+    "static/js/main.ab46b462.js"
+  ]
+}
